@@ -9,7 +9,7 @@
 * Deploy the generated war file in TomEE
 
 
-*********
+## 
 
 * or use `mvn clean jetty:run`.
 * then run the Test
